@@ -1,0 +1,4088 @@
+('C:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE WHATSAPP\\build\\Bot '
+ 'de Whatsapp (v2.1)\\PYZ-00.pyz',
+ [('PIL',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('blinker',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\blinker\\__init__.py',
+   'PYMODULE'),
+  ('blinker._utilities',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\blinker\\_utilities.py',
+   'PYMODULE'),
+  ('blinker.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\blinker\\base.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('click',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\__init__.py',
+   'PYMODULE'),
+  ('click._compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\_compat.py',
+   'PYMODULE'),
+  ('click._termui_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\_termui_impl.py',
+   'PYMODULE'),
+  ('click._textwrap',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\_textwrap.py',
+   'PYMODULE'),
+  ('click._winconsole',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\_winconsole.py',
+   'PYMODULE'),
+  ('click.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\core.py',
+   'PYMODULE'),
+  ('click.decorators',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\decorators.py',
+   'PYMODULE'),
+  ('click.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\exceptions.py',
+   'PYMODULE'),
+  ('click.formatting',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\formatting.py',
+   'PYMODULE'),
+  ('click.globals',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\globals.py',
+   'PYMODULE'),
+  ('click.parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\parser.py',
+   'PYMODULE'),
+  ('click.shell_completion',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\shell_completion.py',
+   'PYMODULE'),
+  ('click.termui',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\termui.py',
+   'PYMODULE'),
+  ('click.testing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\testing.py',
+   'PYMODULE'),
+  ('click.types',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\types.py',
+   'PYMODULE'),
+  ('click.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\click\\utils.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorama',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.mime',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.mime.text',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\text.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('flask',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\__init__.py',
+   'PYMODULE'),
+  ('flask.app',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\app.py',
+   'PYMODULE'),
+  ('flask.blueprints',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\blueprints.py',
+   'PYMODULE'),
+  ('flask.cli',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\cli.py',
+   'PYMODULE'),
+  ('flask.config',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\config.py',
+   'PYMODULE'),
+  ('flask.ctx',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\ctx.py',
+   'PYMODULE'),
+  ('flask.debughelpers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\debughelpers.py',
+   'PYMODULE'),
+  ('flask.globals',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\globals.py',
+   'PYMODULE'),
+  ('flask.helpers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\helpers.py',
+   'PYMODULE'),
+  ('flask.json',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\json\\__init__.py',
+   'PYMODULE'),
+  ('flask.json.provider',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\json\\provider.py',
+   'PYMODULE'),
+  ('flask.json.tag',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\json\\tag.py',
+   'PYMODULE'),
+  ('flask.logging',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\logging.py',
+   'PYMODULE'),
+  ('flask.sansio', '-', 'PYMODULE'),
+  ('flask.sansio.app',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\sansio\\app.py',
+   'PYMODULE'),
+  ('flask.sansio.blueprints',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\sansio\\blueprints.py',
+   'PYMODULE'),
+  ('flask.sansio.scaffold',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\sansio\\scaffold.py',
+   'PYMODULE'),
+  ('flask.sessions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\sessions.py',
+   'PYMODULE'),
+  ('flask.signals',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\signals.py',
+   'PYMODULE'),
+  ('flask.templating',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\templating.py',
+   'PYMODULE'),
+  ('flask.testing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\testing.py',
+   'PYMODULE'),
+  ('flask.typing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\typing.py',
+   'PYMODULE'),
+  ('flask.wrappers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\flask\\wrappers.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py311',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py39',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('itsdangerous',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\__init__.py',
+   'PYMODULE'),
+  ('itsdangerous._json',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\_json.py',
+   'PYMODULE'),
+  ('itsdangerous.encoding',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\encoding.py',
+   'PYMODULE'),
+  ('itsdangerous.exc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\exc.py',
+   'PYMODULE'),
+  ('itsdangerous.serializer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\serializer.py',
+   'PYMODULE'),
+  ('itsdangerous.signer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\signer.py',
+   'PYMODULE'),
+  ('itsdangerous.timed',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\timed.py',
+   'PYMODULE'),
+  ('itsdangerous.url_safe',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\itsdangerous\\url_safe.py',
+   'PYMODULE'),
+  ('jinja2',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\__init__.py',
+   'PYMODULE'),
+  ('jinja2._identifier',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\_identifier.py',
+   'PYMODULE'),
+  ('jinja2.async_utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\async_utils.py',
+   'PYMODULE'),
+  ('jinja2.bccache',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\bccache.py',
+   'PYMODULE'),
+  ('jinja2.compiler',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\compiler.py',
+   'PYMODULE'),
+  ('jinja2.constants',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\constants.py',
+   'PYMODULE'),
+  ('jinja2.debug',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\debug.py',
+   'PYMODULE'),
+  ('jinja2.defaults',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\defaults.py',
+   'PYMODULE'),
+  ('jinja2.environment',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\environment.py',
+   'PYMODULE'),
+  ('jinja2.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2.ext',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\ext.py',
+   'PYMODULE'),
+  ('jinja2.filters',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\filters.py',
+   'PYMODULE'),
+  ('jinja2.idtracking',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\idtracking.py',
+   'PYMODULE'),
+  ('jinja2.lexer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\lexer.py',
+   'PYMODULE'),
+  ('jinja2.loaders',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\loaders.py',
+   'PYMODULE'),
+  ('jinja2.nodes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\nodes.py',
+   'PYMODULE'),
+  ('jinja2.optimizer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\optimizer.py',
+   'PYMODULE'),
+  ('jinja2.parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\parser.py',
+   'PYMODULE'),
+  ('jinja2.runtime',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\runtime.py',
+   'PYMODULE'),
+  ('jinja2.sandbox',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\sandbox.py',
+   'PYMODULE'),
+  ('jinja2.tests',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\tests.py',
+   'PYMODULE'),
+  ('jinja2.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\utils.py',
+   'PYMODULE'),
+  ('jinja2.visitor',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\jinja2\\visitor.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('markupsafe',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\markupsafe\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe._native',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\markupsafe\\_native.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.extensions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\extensions.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.accessors',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._calamine',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_calamine.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pickletools',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickletools.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyrect',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pytweening',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pywhatkit',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\__init__.py',
+   'PYMODULE'),
+  ('pywhatkit.ascii_art',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\ascii_art.py',
+   'PYMODULE'),
+  ('pywhatkit.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\core\\__init__.py',
+   'PYMODULE'),
+  ('pywhatkit.core.core',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\core\\core.py',
+   'PYMODULE'),
+  ('pywhatkit.core.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\core\\exceptions.py',
+   'PYMODULE'),
+  ('pywhatkit.core.log',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\core\\log.py',
+   'PYMODULE'),
+  ('pywhatkit.handwriting',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\handwriting.py',
+   'PYMODULE'),
+  ('pywhatkit.mail',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\mail.py',
+   'PYMODULE'),
+  ('pywhatkit.misc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\misc.py',
+   'PYMODULE'),
+  ('pywhatkit.remotekit',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\remotekit.py',
+   'PYMODULE'),
+  ('pywhatkit.sc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\sc.py',
+   'PYMODULE'),
+  ('pywhatkit.whats',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\pywhatkit\\whats.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('werkzeug',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug._internal',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\_internal.py',
+   'PYMODULE'),
+  ('werkzeug._reloader',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\_reloader.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.accept',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\accept.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.auth',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\auth.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.cache_control',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\cache_control.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.csp',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\csp.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.etag',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\etag.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.file_storage',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\file_storage.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.headers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\headers.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.mixins',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\mixins.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.range',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\range.py',
+   'PYMODULE'),
+  ('werkzeug.datastructures.structures',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\datastructures\\structures.py',
+   'PYMODULE'),
+  ('werkzeug.debug',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\debug\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.debug.console',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\debug\\console.py',
+   'PYMODULE'),
+  ('werkzeug.debug.repr',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\debug\\repr.py',
+   'PYMODULE'),
+  ('werkzeug.debug.tbtools',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\debug\\tbtools.py',
+   'PYMODULE'),
+  ('werkzeug.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\exceptions.py',
+   'PYMODULE'),
+  ('werkzeug.formparser',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\formparser.py',
+   'PYMODULE'),
+  ('werkzeug.http',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\http.py',
+   'PYMODULE'),
+  ('werkzeug.local',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\local.py',
+   'PYMODULE'),
+  ('werkzeug.middleware',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.middleware.shared_data',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\middleware\\shared_data.py',
+   'PYMODULE'),
+  ('werkzeug.routing',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\routing\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.routing.converters',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\routing\\converters.py',
+   'PYMODULE'),
+  ('werkzeug.routing.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\routing\\exceptions.py',
+   'PYMODULE'),
+  ('werkzeug.routing.map',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\routing\\map.py',
+   'PYMODULE'),
+  ('werkzeug.routing.matcher',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\routing\\matcher.py',
+   'PYMODULE'),
+  ('werkzeug.routing.rules',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\routing\\rules.py',
+   'PYMODULE'),
+  ('werkzeug.sansio',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\sansio\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.http',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\sansio\\http.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.multipart',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\sansio\\multipart.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.request',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\sansio\\request.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.response',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\sansio\\response.py',
+   'PYMODULE'),
+  ('werkzeug.sansio.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\sansio\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.security',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\security.py',
+   'PYMODULE'),
+  ('werkzeug.serving',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\serving.py',
+   'PYMODULE'),
+  ('werkzeug.test',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\test.py',
+   'PYMODULE'),
+  ('werkzeug.urls',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\urls.py',
+   'PYMODULE'),
+  ('werkzeug.user_agent',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\user_agent.py',
+   'PYMODULE'),
+  ('werkzeug.utils',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\utils.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\wrappers\\__init__.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.request',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\wrappers\\request.py',
+   'PYMODULE'),
+  ('werkzeug.wrappers.response',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\wrappers\\response.py',
+   'PYMODULE'),
+  ('werkzeug.wsgi',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\werkzeug\\wsgi.py',
+   'PYMODULE'),
+  ('wikipedia',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\wikipedia\\__init__.py',
+   'PYMODULE'),
+  ('wikipedia.exceptions',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\wikipedia\\exceptions.py',
+   'PYMODULE'),
+  ('wikipedia.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\wikipedia\\util.py',
+   'PYMODULE'),
+  ('wikipedia.wikipedia',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\wikipedia\\wikipedia.py',
+   'PYMODULE'),
+  ('win32com',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\ramag\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat.py310',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   'c:\\Users\\ramag\\OneDrive\\Escritorio\\FABRICA\\BOT DE '
+   'WHATSAPP\\.venv\\lib\\site-packages\\zipp\\glob.py',
+   'PYMODULE')])
