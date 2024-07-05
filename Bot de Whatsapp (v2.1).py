@@ -436,7 +436,7 @@ class Ui_MainWindow(object):
 
     def set_path_imagen(self) -> None:
         """Metodo que permite setear la imagen a enviar"""
-        file_filter = 'Imagenes (*.png *.jpg *.jpeg);; Todos los Archivos (*)'
+        file_filter = 'Imagenes (*.png *.jpg *.jpeg);; Videos (*.mp4);; Todos los Archivos (*)'
         path = QFileDialog.getOpenFileName(
             parent=MainWindow,
             caption='Abrir Imagen',
